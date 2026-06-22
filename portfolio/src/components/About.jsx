@@ -1,4 +1,3 @@
-import passportImg from '../passport.png';
 import Introduction from './Introduction.jsx';
 
 function About({ skills }) {
@@ -9,7 +8,7 @@ function About({ skills }) {
       <h1 className="hero-name">Samuel Idah</h1>
 
       <div className="profile-wrapper">
-        <img src={passportImg} className="profile-img" alt="Samuel Idah" />
+        <img src="/passport.png" className="profile-img" alt="Samuel Idah" />
       </div>
 
       <Introduction />
