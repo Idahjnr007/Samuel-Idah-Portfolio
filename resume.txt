@@ -1,0 +1,29 @@
+Samuel Idah - Front-End Developer
+
+Certified Front-End Developer • TS Academy
+
+Skills
+- HTML
+- CSS
+- JavaScript
+- React
+- Responsive Design
+- UI/UX Fundamentals
+
+Experience
+- Built responsive webpages with modern HTML/CSS best practices.
+- Created an interactive calculator with robust arithmetic handling and keyboard support.
+- Developed a stopwatch app with start, pause, reset, and lap tracking behavior.
+
+Education
+- TS Academy — Certified Front-End Developer
+
+Projects
+- Webpages: created landing pages and marketing pages focused on usability and mobile-first design.
+- Calculator: implemented a polished calculator UI with accurate input processing.
+- Stopwatch: built a performance-focused timer tool with clear controls.
+
+Contact
+Email: ohigboche2019@gmail.com
+GitHub: https://github.com/Idahjnr007
+LinkedIn: https://linkedin.com/in/samuel-idah-a61568373
